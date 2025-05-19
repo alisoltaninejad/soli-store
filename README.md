@@ -4,13 +4,14 @@ A fully responsive, single-page e-commerce web app built using **vanilla JavaScr
 
 ## 🚀 Features
 
-- 🧩 Single Page Application (SPA) with dynamic routing
-- 🛒 Dynamic shopping cart (item count + localStorage)
-- 🏷️ Auto discount calculation per product
-- 📂 Nested & combined product categories
-- 🌐 API-based product & blog rendering
-- 🌗 Light/Dark mode toggle (icon + localStorage)
-- 🔐 Login/Register modals (user info stored locally)
-- 💬 SweetAlert for user notifications
+- 🧩 **Single Page Application (SPA)** with dynamic routing
+- 🛒 Dynamic shopping cart with item count & localStorage sync
+- 🏷️ Auto discount calculation and display per product
+- 📂 Support for nested and combined product categories
+- 🌐 Products and blogs loaded dynamically via APIs
+- 🌗 Light/Dark mode toggle (icon-based + persisted via localStorage)
+- 🔐 Modal-based login/register with user data persistence
+- 💬 SweetAlert-based user notifications and confirmations
+- ⏳ Loading screen during data fetching for smoother UX
 - 📄 Pages: Home, Shop, Blogs, About, Contact
-- 📱 Fully responsive design with Tailwind CSS
+- 📱 Fully responsive layout using Tailwind CSS
